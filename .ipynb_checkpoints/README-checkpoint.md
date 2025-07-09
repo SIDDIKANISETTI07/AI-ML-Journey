@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-#  AI & Machine Learning Journey 
-=======
 # AI & Machine Learning Journey 
->>>>>>> 1c85091 (Added DAY 1 notebook)
 
 Welcome to my personal repository where I document my complete journey of learning Python, Artificial Intelligence (AI), and Machine Learning (ML).
 
@@ -10,33 +6,19 @@ This project-based repo includes weekly learning, coding exercises, and mini-pro
 
 ---
 
-<<<<<<< HEAD
-##  Weekly Progress
-
-##  Week 1: Python Basics
-=======
 ## Weekly Progress
 
-## Week 1: Python Basics
->>>>>>> 1c85091 (Added DAY 1 notebook)
+### Week 1: Python Basics
 - [x] Installed Python, Git, and Jupyter Notebook
 - [x] Created and ran my first Jupyter notebook
 - [x] Practiced variables, loops, and conditionals
 - 📓 Notebook: `week1python.ipynb`
 
-<<<<<<< HEAD
-###  Week 2: NumPy & Math
-- [ ] Learn NumPy arrays, slicing, and broadcasting
-- [ ] Mini project: Matrix calculator
-
-### Upcoming Weeks
-=======
 ### Week 2: NumPy & Math
 - [ ] Learn NumPy arrays, slicing, and broadcasting
 - [ ] Mini project: Matrix calculator
 
 ###  Upcoming Weeks
->>>>>>> 1c85091 (Added DAY 1 notebook)
 - Pandas & DataFrames
 - Matplotlib & Seaborn
 - Scikit-learn (ML models)
@@ -71,7 +53,4 @@ Edit
 
 **Siddik Anisetti**  
 [GitHub Profile](https://github.com/SIDDIKANISETTI07)
-<<<<<<< HEAD
-=======
 
->>>>>>> 1c85091 (Added DAY 1 notebook)
