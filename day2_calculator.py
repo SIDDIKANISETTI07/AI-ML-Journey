@@ -22,7 +22,7 @@ while True:
         else:
             if b==0:
                 print("DENOMINATOR CANNOT BE ZERO!")
-                B=float(input("ENTER A VALID NUMBER:"))
+                B=float(input("ENTER A NON ZERO NUMBER:"))
                 b=B
             o=a/b
             print("THE DIVISION OF 2 NO IS:",o)
