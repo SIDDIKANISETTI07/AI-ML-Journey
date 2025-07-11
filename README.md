@@ -1,61 +1,42 @@
-<<<<<<< HEAD
 #  AI & Machine Learning Journey 
-=======
-# AI & Machine Learning Journey 
->>>>>>> 1c85091 (Added DAY 1 notebook)
 
-Welcome to my personal repository where I document my complete journey of learning Python, Artificial Intelligence (AI), and Machine Learning (ML).
+Welcome to my personal repository where I document my complete journey of learning **Python**, **Artificial Intelligence (AI)**, and **Machine Learning (ML)**.  
+This repo contains daily tasks, programs, notes, and mini-projects — everything from basics to advanced concepts.
 
-This project-based repo includes weekly learning, coding exercises, and mini-projects — everything from basic Python to advanced ML algorithms.
 
----
+##  Daily Progress
 
-<<<<<<< HEAD
-##  Weekly Progress
+### * Day 1 - Python Refresher
+- [Python Program: Even/Odd & Square Calculator](day1_python_task.py)
+- [Notes: Day 1](day1_notes.md)
 
-##  Week 1: Python Basics
-=======
-## Weekly Progress
+####  Topics Covered:
+- Basic Python I/O (`input`, `print`)
+- `if-else` conditions
+- Loops (`while`)
+- Git setup & pushing files to GitHub
 
-## Week 1: Python Basics
->>>>>>> 1c85091 (Added DAY 1 notebook)
-- [x] Installed Python, Git, and Jupyter Notebook
-- [x] Created and ran my first Jupyter notebook
-- [x] Practiced variables, loops, and conditionals
-- 📓 Notebook: `week1python.ipynb`
 
-<<<<<<< HEAD
-###  Week 2: NumPy & Math
-- [ ] Learn NumPy arrays, slicing, and broadcasting
-- [ ] Mini project: Matrix calculator
+### * Day 2 - Menu Driven Calculator
+- [Python Program: Simple Calculator](day2_calculator.py)
+- [Notes: Day 2](day2_notes.md)
 
-### Upcoming Weeks
-=======
-### Week 2: NumPy & Math
-- [ ] Learn NumPy arrays, slicing, and broadcasting
-- [ ] Mini project: Matrix calculator
+####  Topics Covered:
+- `while` loops
+- `if-elif-else` conditions
+- Menu-driven programs
+- Handling user input and errors
+- Division by zero handling
+- Git: commit, push, update README
 
-###  Upcoming Weeks
->>>>>>> 1c85091 (Added DAY 1 notebook)
-- Pandas & DataFrames
-- Matplotlib & Seaborn
-- Scikit-learn (ML models)
-- Deep Learning (TensorFlow/PyTorch)
-- Real-time Projects
 
----
+##  Repository Structure
 
-## Folder Structure
-
----AI ML/
-├── week1python.ipynb
+AI-ML-Journey/
+│
+├── day1_python_task.py
+├── day2_calculator.py
 ├── README.md
-├── Projects/
-└── bmi_calculator.ipynb
-
-Copy
-Edit
-
 
 ## Tools & Technologies
 
@@ -63,15 +44,11 @@ Edit
 - Jupyter Notebook
 - Git & GitHub
 - NumPy, Pandas, Matplotlib (soon)
-- VS Code / Git Bash
+- VS Code / Git Bash / Notepad
 
----
 
 ## Author
 
 **Siddik Anisetti**  
 [GitHub Profile](https://github.com/SIDDIKANISETTI07)
-<<<<<<< HEAD
-=======
 
->>>>>>> 1c85091 (Added DAY 1 notebook)
