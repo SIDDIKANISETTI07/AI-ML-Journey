@@ -8,7 +8,6 @@ This repo contains daily tasks, programs, notes, and mini-projects — everythin
 
 ### * Day 1 - Python Refresher
 - [Python Program: Even/Odd & Square Calculator](day1_python_task.py)
-- [Notes: Day 1](day1_notes.md)
 
 ####  Topics Covered:
 - Basic Python I/O (`input`, `print`)
@@ -19,7 +18,6 @@ This repo contains daily tasks, programs, notes, and mini-projects — everythin
 
 ### * Day 2 - Menu Driven Calculator
 - [Python Program: Simple Calculator](day2_calculator.py)
-- [Notes: Day 2](day2_notes.md)
 
 ####  Topics Covered:
 - `while` loops
@@ -31,21 +29,31 @@ This repo contains daily tasks, programs, notes, and mini-projects — everythin
 
 
 ### * Day 3 - * Pattern & FizzBuzz
-  1. day3_pattern.py
-   User inputs number of rows
-   Prints a left-aligned triangle pattern of * using nested for loops
-   Example (for 4 rows):
+  1. [Python Program:* pattern](day3_pattern.py)
+   -User inputs number of rows
+   -Prints a left-aligned triangle pattern of * using nested for loops
+   -Example (for 4 rows):
 
    *
    * *
    * * *
    * * * *
 
-  2. day3_fizzbuzz.py
-   Prints numbers from 1 to 100
-   For multiples of 3 → prints "Fizz"
-   For multiples of 5 → prints "Buzz"
-   For multiples of both 3 and 5 → prints "FizzBuzz"
+  2. [Python Program: FizzBuzz](day3_FizzBuzz.py)
+   -Prints numbers from 1 to 100
+   -For multiples of 3 → prints "Fizz"
+   -For multiples of 5 → prints "Buzz"
+   -For multiples of both 3 and 5 → prints "FizzBuzz"
+
+### Day 4 - Prime Number check
+- [Python Program: Prime Number check](day4_primenumber.py)
+
+#### Task: Prime Number Checker (Python)
+- Wrote a Python program to check whether a number is prime.
+- Used `for` loop and basic conditionals.
+- Added user menu with options to check another number or exit.
+- Implemented input validation to ensure correct user choices.
+
 
 ##  Repository Structure
 
@@ -54,6 +62,7 @@ AI-ML-Journey/
  -->day2_calculator.py
  -->day3_Pattern.py
  -->day3_FizzBuzz.py
+ -->day4_primenumber.py
  -->README.md
 
 ## Tools & Technologies
