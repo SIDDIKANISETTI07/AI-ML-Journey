@@ -54,6 +54,25 @@ This repo contains daily tasks, programs, notes, and mini-projects — everythin
 - Added user menu with options to check another number or exit.
 - Implemented input validation to ensure correct user choices.
 
+### Day 5 - Calcualtor using functions
+- [Python program: Calculator using functions](day5_calculator_functions.py)
+
+#### Task: Build a calculator using functions  
+- Created separate functions: `add()`, `sub()`, `mul()`, and `div()`.
+- Used a menu-driven `while` loop to let the user repeatedly choose operations.
+- Included input validation and safe division handling (avoided division by zero).
+
+### Day 6 - Even numbers & Max & Min in entered lists
+- [Python program:Even numbers in list](day6_even_list.py)
+- [Pyhton program:Max & Min in list](day6_maxmin_list.py)
+
+#### Task 1: Print even numbers from a list  
+- Input 10 numbers and printed only the even ones.
+
+#### Task 2: Find largest and smallest number  
+- Collected `n` numbers from the user.
+- Used `max()` and `min()` functions to display the largest and smallest.
+
 
 ##  Repository Structure
 
@@ -63,6 +82,9 @@ AI-ML-Journey/
  -->day3_Pattern.py
  -->day3_FizzBuzz.py
  -->day4_primenumber.py
+ -->day5_calculator_functions.py
+ -->day6_even_list.py
+ -->day6_maxmin_list.py
  -->README.md
 
 ## Tools & Technologies
