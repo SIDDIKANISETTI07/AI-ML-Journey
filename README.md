@@ -15,6 +15,7 @@ This repo contains daily tasks, programs, notes, and mini-projects — everythin
 - Loops (`while`)
 - Git setup & pushing files to GitHub
 
+---
 
 ### * Day 2 - Menu Driven Calculator
 - [Python Program: Simple Calculator](day2_calculator.py)
@@ -27,6 +28,7 @@ This repo contains daily tasks, programs, notes, and mini-projects — everythin
 - Division by zero handling
 - Git: commit, push, update README
 
+---
 
 ### * Day 3 - * Pattern & FizzBuzz
   1. [Python Program:* pattern](day3_pattern.py)
@@ -38,12 +40,12 @@ This repo contains daily tasks, programs, notes, and mini-projects — everythin
    * *
    * * *
    * * * *
-
   2. [Python Program: FizzBuzz](day3_FizzBuzz.py)
    -Prints numbers from 1 to 100
    -For multiples of 3 → prints "Fizz"
    -For multiples of 5 → prints "Buzz"
    -For multiples of both 3 and 5 → prints "FizzBuzz"
+---
 
 ### Day 4 - Prime Number check
 - [Python Program: Prime Number check](day4_primenumber.py)
@@ -54,6 +56,8 @@ This repo contains daily tasks, programs, notes, and mini-projects — everythin
 - Added user menu with options to check another number or exit.
 - Implemented input validation to ensure correct user choices.
 
+---
+
 ### Day 5 - Calcualtor using functions
 - [Python program: Calculator using functions](day5_calculator_functions.py)
 
@@ -61,6 +65,8 @@ This repo contains daily tasks, programs, notes, and mini-projects — everythin
 - Created separate functions: `add()`, `sub()`, `mul()`, and `div()`.
 - Used a menu-driven `while` loop to let the user repeatedly choose operations.
 - Included input validation and safe division handling (avoided division by zero).
+
+---
 
 ### Day 6 - Even numbers & Max & Min in entered lists
 - [Python program:Even numbers in list](day6_even_list.py)
@@ -73,6 +79,18 @@ This repo contains daily tasks, programs, notes, and mini-projects — everythin
 - Collected `n` numbers from the user.
 - Used `max()` and `min()` functions to display the largest and smallest.
 
+---
+
+### Day 7 – List Operations in Python
+- [python program:List operations](day7_list_operations.py)
+
+#### Task: The program takes `n` numbers as input from the user and:
+- Displays the largest and smallest number
+- Calculates the sum and average
+- Extracts even numbers into a new list
+- Sorts the list in both ascending and descending order
+
+---
 
 ##  Repository Structure
 
@@ -85,6 +103,7 @@ AI-ML-Journey/
  -->day5_calculator_functions.py
  -->day6_even_list.py
  -->day6_maxmin_list.py
+ -->day7_list_operations.py
  -->README.md
 
 ## Tools & Technologies
