@@ -92,6 +92,18 @@ This repo contains daily tasks, programs, notes, and mini-projects — everythin
 
 ---
 
+### Day 8 - Sorting a List Without Using Built-in Functions
+ - [Python program: Sorting of list](day8.sorting.py)
+
+#### Task:
+- Accept `n` numbers from the user and store them in a list.
+- Sort the list manually using bubble sort logic:
+- First in **ascending order**.
+- Then in **descending order**.
+- Display all three: original, ascending, and descending lists.
+
+---
+
 ##  Repository Structure
 
 AI-ML-Journey/
@@ -104,6 +116,7 @@ AI-ML-Journey/
  -->day6_even_list.py
  -->day6_maxmin_list.py
  -->day7_list_operations.py
+ -->day8_sorting.py
  -->README.md
 
 ## Tools & Technologies
