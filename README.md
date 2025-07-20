@@ -93,7 +93,7 @@ This repo contains daily tasks, programs, notes, and mini-projects — everythin
 ---
 
 ### Day 8 - Sorting a List Without Using Built-in Functions
- - [Python program: Sorting of list](day8.sorting.py)
+ - [Python program: Sorting of list](day8_sorting.py)
 
 #### Task:
 - Accept `n` numbers from the user and store them in a list.
@@ -101,6 +101,18 @@ This repo contains daily tasks, programs, notes, and mini-projects — everythin
 - First in **ascending order**.
 - Then in **descending order**.
 - Display all three: original, ascending, and descending lists.
+
+---
+
+### Day 9 - Python Functions
+ - [Python program: Python funtions](day9_functions.py)
+
+#### Task:
+-is_even(n) → Checks if a number is even
+-factorial(n) → Calculates factorial of a number
+-reverse_number(n) → Reverses the digits of a number
+-is_palindrome(n) → Checks if a number is a palindrome
+-gcd(a, b) → Computes GCD using Euclidean algorithm
 
 ---
 
@@ -117,6 +129,7 @@ AI-ML-Journey/
  -->day6_maxmin_list.py
  -->day7_list_operations.py
  -->day8_sorting.py
+ -->day9_functions.py
  -->README.md
 
 ## Tools & Technologies
