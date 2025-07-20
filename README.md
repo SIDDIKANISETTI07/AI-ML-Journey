@@ -116,6 +116,20 @@ This repo contains daily tasks, programs, notes, and mini-projects — everythin
 
 ---
 
+### Day 11 - String Operations in Python
+ - [Python Program: String Analysis](day11_bstringoperations.py)
+
+#### Task:
+- Take a string input from the user.
+- Print the following:
+- Original string
+- Reversed string
+- Length of the string
+- Number of vowels and consonants
+- Check if the string is a palindrome
+
+---
+
 ##  Repository Structure
 
 AI-ML-Journey/
@@ -130,6 +144,7 @@ AI-ML-Journey/
  -->day7_list_operations.py
  -->day8_sorting.py
  -->day9_functions.py
+ -->day11_bstringoperations.py
  -->README.md
 
 ## Tools & Technologies
