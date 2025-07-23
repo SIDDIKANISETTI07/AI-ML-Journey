@@ -1,0 +1,13 @@
+s=input("ENTER STRING: ")
+print("ORIGINAL:",s)
+print("UPPER CASE:",s.upper())
+print("LOWER CASE",s.lower())
+print("CAPITALIZE:",s.capitalize())
+print("NO OF WORDS:",s.count(" ")+1)
+print("SEPARATE WITH -:",s.replace(" ","-"))
+print("IS STARTED WITH \'Hello\'",s.startswith("Hello"))
+print("IS ENDED WITH \'Bye\'",s.endswith("Bye"))
+sep=s.split()
+rw=sep[::-1]
+rs=' '.join(rw)
+print("REVERSED SENTENCE:", rs)
