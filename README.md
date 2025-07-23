@@ -117,7 +117,7 @@ This repo contains daily tasks, programs, notes, and mini-projects — everythin
 ---
 
 ### Day 11 - String Operations in Python
- - [Python Program: String Analysis](day11_bstringoperations.py)
+ - [Python Program: String Analysis](day11.bstringoperations.py)
 
 #### Task:
 - Take a string input from the user.
@@ -127,6 +127,33 @@ This repo contains daily tasks, programs, notes, and mini-projects — everythin
 - Length of the string
 - Number of vowels and consonants
 - Check if the string is a palindrome
+
+---
+
+### Day 12 - Introduction to Strings in Python
+- [Python program: Basic String Operations](day12_13_stringop.py)
+
+#### Task:
+- Accept a string from the user.
+- Perform the following operations:
+  - Print the first character.
+  - Print the last character.
+  - Print the string in reverse using slicing.
+  - Display the length of the string using `len()`.
+  - Slice the string to print only the middle part (excluding first and last characters).
+### Day 13 - String Methods and Word Reversal
+- [Python program: String Methods and Word Reversal](day12_13_stringop.py)
+
+#### Task 1: String Method Practice
+- Accept a string from the user and perform:
+  - Convert to uppercase and lowercase
+  - Capitalize the string
+  - Count number of words (space count + 1)
+  - Replace all spaces with hyphens
+  - Check if string starts with "Hello" and ends with "Bye"
+#### Task 2: Reverse Words in a Sentence
+- Accept a full sentence from the user.
+- Reverse the order of words and display.
 
 ---
 
@@ -144,7 +171,8 @@ AI-ML-Journey/
  -->day7_list_operations.py
  -->day8_sorting.py
  -->day9_functions.py
- -->day11_bstringoperations.py
+ -->day11.bstringoperations.py
+ -->day12_13_stringop.py
  -->README.md
 
 ## Tools & Technologies
