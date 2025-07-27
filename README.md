@@ -157,6 +157,57 @@ This repo contains daily tasks, programs, notes, and mini-projects — everythin
 
 ---
 
+### Day 14 - Tuples and Sets in Python
+- [Python program:Tuples and sets](day14_tuples_sets.py)
+
+#### Task: Tuple and Set Operations
+- Accept `n` numbers from the user and store them in a tuple.
+- Display:
+   - The original tuple
+   - Maximum and minimum values
+   - Reversed tuple using slicing
+- Convert the tuple into a set.
+- Add a new element to the set.
+- Perform:
+   - Union
+   - Intersection
+   - Difference with another set `{5, 10, 15, 20}`
+
+---
+
+### Day 15 - Dictionaries in Python
+ - [Python program:Student marks using dictionaries](day15_studentsdict.py)
+ - [Python program:Word frequency using dictionaries](day15_wordfreqdict.py)
+
+#### Task 1:  
+- Accept names and marks of 5 students  
+- Store them in a dictionary  
+- Display all names, all marks, and the top scorer
+
+#### Task 2: Word Frequency Counter
+- Accept a sentence
+- Count the frequency of each word using a dictionary
+- Display the word and its count
+
+---
+
+### DAY 16 - FILES HANDLING
+ - [Python program:Lines count using files](day16_filelines.py)
+ - [Python program:Words count using files](day16_filewords.py)
+
+#### Task 1:
+- Take a string as an input
+- Store in a file using .write()
+- Print no lines
+- Print longest line
+#### Task 2:
+- Take a sentence as an input
+- Store in a file
+- Count no of words and print them
+- Word frequencies using files
+
+---
+
 ##  Repository Structure
 
 AI-ML-Journey/
@@ -173,6 +224,11 @@ AI-ML-Journey/
  -->day9_functions.py
  -->day11.bstringoperations.py
  -->day12_13_stringop.py
+ -->day14_tuples_sets.py
+ -->day15_studentsdict.py
+ -->day15_wordfreqdict.py
+ -->day16_filelines.py
+ -->day16_filewords.py
  -->README.md
 
 ## Tools & Technologies
