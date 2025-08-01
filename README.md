@@ -208,28 +208,63 @@ This repo contains daily tasks, programs, notes, and mini-projects — everythin
 
 ---
 
-##  Repository Structure
+### DAY 17 - EXCEPTION HANDLING
+ - [Python program: Exception handling](day17_exceptionhandling.py)
 
-AI-ML-Journey/
- -->day1_python_task.py
- -->day2_calculator.py
- -->day3_Pattern.py
- -->day3_FizzBuzz.py
- -->day4_primenumber.py
- -->day5_calculator_functions.py
- -->day6_even_list.py
- -->day6_maxmin_list.py
- -->day7_list_operations.py
- -->day8_sorting.py
- -->day9_functions.py
- -->day11.bstringoperations.py
- -->day12_13_stringop.py
- -->day14_tuples_sets.py
- -->day15_studentsdict.py
- -->day15_wordfreqdict.py
- -->day16_filelines.py
- -->day16_filewords.py
- -->README.md
+#### Task:
+- Take 2 numbers as input
+- Use try-except to handle:
+--Division by zero
+--Invalid input (non-numeric)
+--Print result if valid
+
+---
+
+### DAY 18 - PYTHON MODULES & LIBRARIES
+- [Python program: Math and random module usage](day18_math_random.py)
+
+#### Task 1:
+- Use math module
+- Functions: sqrt(), pow(), ceil(), floor(), sin()
+- Use random module
+- Functions: randint(), random(), choice(), shuffle()
+
+---
+
+### DAY 19 - OBJECT-ORIENTED PROGRAMMING (OOP)
+- [Python program: Student class with methods](day19_oop_basics.py)
+
+#### Task:
+- Create class Student
+- Attributes: name, roll, marks
+- Use __init__() for initialization
+- Add method display() to show details
+- Add method check_pass()
+- If marks >= 35 → Print "Pass"
+- Else → Print "Fail"
+
+---
+
+### DAY 20 - FINAL PYTHON PROJECT: STUDENT RECORD MANAGER
+- [Python program: Student Record Manager](day20_project.py)
+
+#### Task:
+- Create a console-based mini Python application that uses all major concepts covered so far:
+- Input/output, conditions, loops
+- Functions and exception handling
+- Lists, dictionaries, strings
+- File handling
+- Classes and objects (OOP)
+## Menu Options:
+- Add Student
+- View All Students
+- Search by Roll Number
+- Delete a Record
+- Save to File
+- Load from File
+- Exit
+
+---
 
 ## Tools & Technologies
 
